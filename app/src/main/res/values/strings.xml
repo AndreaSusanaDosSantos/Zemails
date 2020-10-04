@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zmail</string>
+    <string name="imageViewIcono">TODO</string>
+    <string name="txtNombreRemitente">TextView</string>
+    <string name="txtAsuntoMensaje">TextView</string>
+    <string name="txtCuerpoMensaje">TextView</string>
+    <string name="mnuRefrescarPriPantalla">Refresh</string>
+    <string name="mnuSalirPriPantalla">Salir</string>
+    <string name="txtRemitenteDetalleCorreo">TextView</string>
+    <string name="txtAsuntoDetalleCorreo">TextView</string>
+    <string name="txtCuerpoMensajeDetalleCorreo">TextView</string>
+</resources>

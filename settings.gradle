@@ -1,0 +1,2 @@
+rootProject.name='Zmail'
+include ':app'
